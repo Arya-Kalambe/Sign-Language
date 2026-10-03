@@ -2,7 +2,7 @@
 This dataset contains images of American Sign Language (ASL) gestures, including alphabet signs (A–Z) and commonly used words. It is designed for training and evaluating machine learning and deep learning models for sign language recognition, image classification, and computer vision projects.
 
 🤟 **American Sign Language (ASL) Alphabet & Word Dataset**
-
+This project also tries to convert alphabets and words into sentences.
 This dataset is a custom, self-collected and self-trained dataset developed for an **ASL Sign Language Recognition** computer vision project. It contains gesture data for both **ASL alphabets (A–Z)** and **commonly used words**.
 
 📊 **Dataset Details**
