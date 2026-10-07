@@ -10,7 +10,9 @@ This dataset is a custom, self-collected and self-trained dataset developed for 
 * 🔤 **Alphabets:** A–Z
 * 🗣️ **Words:** Commonly used ASL words
 * 🖼️ **Alphabet data:** Approximately **1,800 frames per letter**
+Total 46,800 alphabets frames
 * 📝 **Word data:** Approximately **3,000 frames per word**
+Total 27,000 words frames
 * 🤖 **Model:** Self-trained deep learning recognition model
 * 🎯 **Reported accuracy:** Approximately **97%**
 
