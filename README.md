@@ -30,3 +30,6 @@ The dataset is designed for training and evaluating machine learning and deep le
 * ♿ Assistive communication technologies
 
 📌 The dataset was collected and prepared specifically for this project and is intended to support research, education, experimentation, and development of accessible sign language recognition systems.
+
+
+now can text to sentences also
