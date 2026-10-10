@@ -33,3 +33,4 @@ The dataset is designed for training and evaluating machine learning and deep le
 
 
 now can text to sentences also
+used gemini LLM model to generate sentences
