@@ -37,4 +37,6 @@ used gemini LLM model to generate sentences
 
 converting words to sentences and making it useful for translation is great
 
-Can make logical sentences using the datasets
+Can make logical sentences using the datasets add commas, question mark
+
+used gemini api for sentence generation
