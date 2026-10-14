@@ -36,3 +36,5 @@ now can text to sentences also
 used gemini LLM model to generate sentences
 
 converting words to sentences and making it useful for translation is great
+
+Can make logical sentences using the datasets
