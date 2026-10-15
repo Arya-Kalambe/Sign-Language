@@ -40,3 +40,5 @@ converting words to sentences and making it useful for translation is great
 Can make logical sentences using the datasets add commas, question mark
 
 used gemini api for sentence generation
+
+Making it useful for people to understand sign language
