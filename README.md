@@ -42,3 +42,5 @@ Can make logical sentences using the datasets add commas, question mark
 used gemini api for sentence generation
 
 Making it useful for people to understand sign language
+
+It is now train on self generated data and accuracy is 97 and 100 and trained on specific dataset
